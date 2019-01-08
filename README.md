@@ -1,5 +1,5 @@
 # User Note
-## Note application with Django and ReactJS
+#### Note application with Django and ReactJS
 
 # How to setup
  #### .Create a virtual env for this project
