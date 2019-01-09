@@ -10,3 +10,5 @@
 •	  npm run start <br />
 •	  python manage.py runserver <br />
 
+![Welcome Page](C:\Users\My Pc\Pictures\Welcome Page.PNG)
+
