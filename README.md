@@ -10,5 +10,6 @@
 •	  npm run start <br />
 •	  python manage.py runserver <br />
 
-![Welcome Page](C:\Users\My Pc\Pictures\Welcome Page.PNG)
+ ![welcome page](https://user-images.githubusercontent.com/42746311/50892915-a2d93480-1425-11e9-90a2-62292fab2b78.PNG)
+
 
